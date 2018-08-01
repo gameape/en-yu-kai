@@ -1,8 +1,8 @@
 # 猿遊会2018 テーブル予約状況
 
-|ゲーム|11/17|11/18|備考|
+|ゲーム|11/17枚数|11/18枚数|備考|
 |:----|:----:|:----:|:----|
-|Lincoln　（Martin Wallace's ACW board game ）|2|0||
+|Lincoln　（Martin Wallace's ACW board game ）|2|-||
 |ＷＷ１ゲーム（マルチ込み）|1or|or1|どちらか１日|
 Flames of War（ミニチュアゲーム、バルバロッサ作戦）|2or|or2|どちらか１日（日曜の方が嬉しい）、1200×1800の盤面を用意したい|
 |Unconditional Surrender|２|0||
