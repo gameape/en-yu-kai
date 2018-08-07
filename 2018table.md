@@ -9,4 +9,5 @@ Flames of War（ミニチュアゲーム、バルバロッサ作戦）|2or|or2|�
 |空戦ゲーム（詳細は検討中）|2|2||
 |Longstreet Attacks|1|1|
 |Gamers系作戦級|2|2||
-|合計|9+3|5+3||
+|Asia Engulfed|2|2||
+|合計|11+3|7+3||
