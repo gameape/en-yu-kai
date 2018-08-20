@@ -10,4 +10,6 @@ Flames of War（ミニチュアゲーム、バルバロッサ作戦）|2or|or2|�
 |Longstreet Attacks|1|1|
 |Gamers系作戦級|2|2||
 |Asia Engulfed|2|2||
-|合計|11+3|7+3||
+|南太平洋空母戦、モンテリマール|2|2||
+|Holland 44|2|2||
+|合計|15+3|11+3||
