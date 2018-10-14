@@ -7,11 +7,10 @@
 |Flames of War（ミニチュアゲーム、バルバロッサ作戦）|-|2|1200×1800の盤面を用意したい|
 |Unconditional Surrender|2|-||
 |空戦ゲーム（詳細は検討中）|2|2||
-|Longstreet Attacks|1|1|
-|Gamers系作戦級|2|2||
+|Smolensk（MMP）|2|2||
 |Asia Engulfed|2|2||
 |南太平洋空母戦、モンテリマール|2|2||
 |Holland 44|2|2||
 |未定|2|-||
 |Drive on Paris|1|1||
-|合計|18|15||
+|合計|17|14||
