@@ -8,7 +8,7 @@
 |Unconditional Surrender|2|-||
 |空戦ゲーム（詳細は検討中）|2|2||
 |Smolensk（MMP）|2|2||
-|Asia Engulfed|2|2||
+|Triumph & Tragdy|2|2||
 |南太平洋空母戦、モンテリマール|2|2||
 |Holland 44|2|2||
 |未定|2|-||
