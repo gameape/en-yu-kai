@@ -10,5 +10,6 @@
 |選定中|1-2|1-2||
 |検討中|2|2||
 |Uboot（「Uボート」）|-|2||
-|検討中|2|2||
+|バトルオブブリテン（Fighting Wing(Achtung Spitfire!)、Down in flames、Wing Leaderなど検討中）|2|-||
+|バトルオブブリテン（Burning Blue(GMT)）|-|2||
 |合計|15-18|11-14||
