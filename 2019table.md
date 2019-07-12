@@ -5,12 +5,13 @@
 |Line of Battleシリーズ または Eagles of Franceシリーズ|2-3|2-3||
 |Unconditional Surrender|2|-||
 |GMT Grand Prix を使ったFunabori GP チャンピオンシップ(全４戦を予定)|2|-||
-|Battalion Combat Series（Brazen Chariots）|2-3|2-3||
+|Battalion Combat Series（Brazen Chariots）|2+小1|2+小1||
 |Flames of War|2|-||
 |選定中|1-2|1-2||
-|検討中|2|2||
+|ＧＭＴ：トライアンフ＆トラジディ初心者卓|2|-||
+|検討中|-|2||
 |Uboot（「Uボート」）|-|2||
 |バトルオブブリテン（Fighting Wing(Achtung Spitfire!)、Down in flames、Wing Leaderなど検討中）|2|-||
 |バトルオブブリテン（Burning Blue(GMT)）|-|2||
 |「踊る！大本営会議(躍進無敵皇軍)」基本/協力拡張|-|2||
-|合計|15-18|13-16||
+|合計|15-17 +小1|13-15 +小1||
