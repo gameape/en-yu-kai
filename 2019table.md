@@ -9,7 +9,7 @@
 |Flames of War|2|-||
 |選定中|1-2|1-2||
 |ＧＭＴ：トライアンフ＆トラジディ初心者卓|2|-||
-|検討中|-|2||
+|シビライゼーションAH版|-|2||
 |Uboot（「Uボート」）|-|2||
 |バトルオブブリテン（Fighting Wing(Achtung Spitfire!)、Down in flames、Wing Leaderなど検討中）|2|-||
 |バトルオブブリテン（Burning Blue(GMT)）|-|2||
