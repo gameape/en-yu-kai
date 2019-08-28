@@ -7,7 +7,7 @@
 |GMT Grand Prix を使ったFunabori GP チャンピオンシップ(全４戦を予定)|2|-||
 |Battalion Combat Series（Brazen Chariots）|2+小1|2+小1||
 |Flames of War|2|-||
-|War in the East|2|2||
+|CHURCHILL(GMT)|2|2||
 |アドバンスト・シビライゼーション|-|2||
 |Uboot（「Uボート」）|-|2||
 |バトルオブブリテン（Fighting Wing(Achtung Spitfire!)、Down in flames、Wing Leaderなど検討中）|2|-||
